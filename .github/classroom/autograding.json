@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "holamundo",
+      "setup": "",
+      "run": "sudo go run main.go",
+      "input": "",
+      "output": "Hola Mundo!",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
